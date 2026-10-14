@@ -24,7 +24,7 @@ Boolean HadajCislo()
 }
 
 
-Console.WriteLine("Podme sa hrat!");
+Console.WriteLine("Podme sa hrat!"); 
 Boolean uhadol = HadajCislo();
 int pocetZlychUhadnuti = 1;
 while (uhadol == false)
